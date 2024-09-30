@@ -9,7 +9,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 SEIYUN UNIVERSITY Bachelor of Information Security June 2024 I studied Cyber security,
 
 # Skills:
-
+* pentrationtestor
+* Burbsuit
 * design 
 * python 
 * Linux  
