@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
+
 ![I am GitHub Readme Generator's creator](file:///C:/Users/G.B/Downloads/WhatsApp%20Image%202024-09-30%20at%205.19.22%20PM.jpeg)
+
+
 
 # EDUCATION
 
